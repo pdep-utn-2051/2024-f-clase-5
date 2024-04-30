@@ -1,7 +1,5 @@
-# Ejercicio 1 Funcional
+# Clase 5
 
-Primer ejercicio en Haskell: función `esBisiesto`
 
 ## Estudiante
 
-Nombre y Apellido: 
